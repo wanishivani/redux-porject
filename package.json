@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "install": "^0.13.0",
+    "react-redux": "^8.0.7",
+    "redux": "^4.2.1"
+  }
+}
